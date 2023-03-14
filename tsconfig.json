@@ -30,7 +30,6 @@
   "files": [
     "./references.d.ts",
     "./src/main.ts",
-    "../src/oauth.ts",
     "./src/polyfills.ts"
   ],
   "exclude": [
