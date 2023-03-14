@@ -1,0 +1,32 @@
+{
+  "description": "NativeScript Application",
+  "license": "SEE LICENSE IN <your-license-filename>",
+  "repository": "<fill-your-repository-here>",
+  "dependencies": {
+    "@angular/animations": "~10.1.0",
+    "@angular/common": "~10.1.0",
+    "@angular/compiler": "~10.1.0",
+    "@angular/core": "~10.1.0",
+    "@angular/forms": "~10.1.0",
+    "@angular/platform-browser": "~10.1.0",
+    "@angular/platform-browser-dynamic": "~10.1.0",
+    "@angular/router": "~10.1.0",
+    "@nativescript/angular": "~10.1.0",
+    "@nativescript/core": "~8.4.7",
+    "@nativescript/theme": "~2.3.0",
+    "reflect-metadata": "~0.1.12",
+    "rxjs": "^6.6.0",
+    "zone.js": "~0.11.1",
+    "nativescript-oauth2": "file:../src"
+  },
+  "devDependencies": {
+    "@angular/compiler-cli": "~10.1.0",
+    "@nativescript/ios": "~8.4.1",
+    "@nativescript/types": "~8.4.0",
+    "@nativescript/webpack": "~5.0.13",
+    "@ngtools/webpack": "~10.1.0",
+    "typescript": "~3.9.0"
+  },
+  "readme": "NativeScript Application",
+  "main": "main.js"
+}
